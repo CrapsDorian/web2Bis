@@ -27,12 +27,6 @@ const imgFilms = [
     }
 ]
 
-console.log("cinema chemin vrai : ");
-console.log(cinema);
-console.log("cinema chemin faux : ");
-console.log(imgFilms[0].cinema);
-
-
 
 
 renderMenuFromString(Films);
